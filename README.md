@@ -56,6 +56,3 @@ Below are screenshots of the app's user interface:
 - ![Requests](https://img.shields.io/badge/Requests-HTTP%20Client-FF6F61?style=for-the-badge&logo=requests&logoColor=white&color=000000) Requests (for fetching exchange rates)
 - ![Pytz](https://img.shields.io/badge/Pytz-Time%20Zones-F4B400?style=for-the-badge&logo=python&logoColor=white&color=000000) Pytz (for time zone handling)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
