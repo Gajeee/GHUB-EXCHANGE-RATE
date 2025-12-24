@@ -1,6 +1,6 @@
 # Ghub Exchange
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green.svg) ![Requests](https://img.shields.io/badge/Requests-HTTP%20Client-lightblue.svg) ![Pytz](https://img.shields.io/badge/Pytz-Time%20Zones-orange.svg)
+![Python](https://img.shields.io/badge/Python-3.x-4B8BBE?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-33B8FF?style=flat-square&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-HTTP%20Client-FF6F61?style=flat-square&logo=requests&logoColor=white) ![Pytz](https://img.shields.io/badge/Pytz-Time%20Zones-F4B400?style=flat-square&logo=python&logoColor=white)
 
 Ghub Exchange is a lightweight and minimal currency exchange rate tracker that runs in the background. It provides real-time exchange rate data and local time information for selected countries. It also displays how the exchange rates have changed over the past 24 hours, making it an efficient tool for tracking currency fluctuations in an easy-to-read interface.
 
@@ -51,10 +51,10 @@ Below are screenshots of the app's user interface:
 
 ## Requirements
 
-- ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) Python 3.x
-- ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green.svg) Tkinter (for GUI)
-- ![Requests](https://img.shields.io/badge/Requests-HTTP%20Client-lightblue.svg) Requests (for fetching exchange rates)
-- ![Pytz](https://img.shields.io/badge/Pytz-Time%20Zones-orange.svg) Pytz (for time zone handling)
+- ![Python](https://img.shields.io/badge/Python-3.x-4B8BBE?style=flat-square&logo=python&logoColor=white) Python 3.x
+- ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-33B8FF?style=flat-square&logo=python&logoColor=white) Tkinter (for GUI)
+- ![Requests](https://img.shields.io/badge/Requests-HTTP%20Client-FF6F61?style=flat-square&logo=requests&logoColor=white) Requests (for fetching exchange rates)
+- ![Pytz](https://img.shields.io/badge/Pytz-Time%20Zones-F4B400?style=flat-square&logo=python&logoColor=white) Pytz (for time zone handling)
 
 ## License
 
