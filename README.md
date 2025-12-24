@@ -27,8 +27,8 @@ Below are screenshots of the app's user interface:
 
 <table>
   <tr>
-    <td><img src="images/UI1.JPG" width="300" alt="UI Screenshot 1"></td>
-    <td><img src="images/UI2.JPG" width="300" alt="UI Screenshot 2"></td>
+    <td><img src="images/ui1.JPG" width="300" alt="UI Screenshot 1"></td>
+    <td><img src="images/ui2.JPG" width="300" alt="UI Screenshot 2"></td>
   </tr>
 </table>
 
